@@ -1,5 +1,5 @@
 NAME
-    Regexp::Common::net::CIDR -- provide patterns for CDIR blocks.
+    Regexp::Common::net::CIDR -- provide patterns for CIDR blocks.
 
 SYNOPSIS
         use Regexp::Common ();
