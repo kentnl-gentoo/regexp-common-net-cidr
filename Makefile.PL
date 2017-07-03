@@ -1,4 +1,4 @@
-use inc::Module::Install;
+use lib q[.]; use inc::Module::Install;
 name('Regexp-Common-net-CIDR');
 version_from('lib/Regexp/Common/net/CIDR.pm');
 license('perl');
